@@ -9,9 +9,9 @@ También incluye imágenes y la cantidad de intentos fallidos que lleva el jugad
 También permite desactivar el sonido con un botón si se desea.
 
 Cuando se carga el juego...
-![iMAGEN](https://github.com/cristianecheverri/Ahorcado/blob/master/AhorcadoInicio.PNG)
+![IMAGEN](https://github.com/cristianecheverri/Ahorcado/blob/master/AhorcadoInicio.PNG)
 
 Después de empezar a jugar...
-![iMAGEN](https://github.com/cristianecheverri/Ahorcado/blob/master/Ahorcado.PNG)
+![IMAGEN](https://github.com/cristianecheverri/Ahorcado/blob/master/Ahorcado.PNG)
 
 
