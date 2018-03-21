@@ -7,3 +7,8 @@ y sonidos aleatorios para cuando se gana o pierde el juego.
 También incluye imágenes y la cantidad de intentos fallidos que lleva el jugador.
 
 También permite desactivar el sonido con un botón si se desea.
+
+![Alt text](C:\Users\Estudiantes\Desktop\Captura.PNG)
+
+
+
