@@ -8,7 +8,5 @@ También incluye imágenes y la cantidad de intentos fallidos que lleva el jugad
 
 También permite desactivar el sonido con un botón si se desea.
 
-![Alt text](C:\Users\Estudiantes\Desktop\Captura.PNG)
-
 
 
