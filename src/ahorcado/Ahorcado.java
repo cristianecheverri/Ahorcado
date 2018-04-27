@@ -16,7 +16,6 @@ import javax.swing.*;
  * Ingeniería en informática 
  * Tercer semestre 
  * Universidad de Caldas - Colombia
- * Docente Carlos Cuesta Iglesias
  */
 public class Ahorcado extends JFrame {
 
